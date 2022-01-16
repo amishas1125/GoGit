@@ -1,1 +1,2 @@
 I didn't understand how to delete commits.
+git is basically a vcs that lets you track of your source code history and allows you to manage open source projects.
